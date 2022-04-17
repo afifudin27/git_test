@@ -1,0 +1,2 @@
+For now, i just learn to use Git & github from Command Line
+I know i can do this
